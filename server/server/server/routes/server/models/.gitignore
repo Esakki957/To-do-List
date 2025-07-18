@@ -1,0 +1,9 @@
+# Full Stack To-Do List App
+
+A basic full stack project with:
+
+- **Frontend**: React (folder: `client/`)
+- **Backend**: Node.js + Express + MongoDB (folder: `server/`)
+- **Database**: MongoDB (Mongoose)
+
+This structure is GitHub-ready for development or deployment.
